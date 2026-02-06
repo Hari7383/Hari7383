@@ -5,9 +5,11 @@ I build applied AI systems — not just notebooks.
 Focused on turning ML models into usable tools.
 
 ### 🔧 Tech Stack
-- Python, PyTorch, TensorFlow
-- OpenCV, NumPy, Pandas
+- Python, PyTorch, TensorFlow, LangChain
+- OpenCV, NumPy, Pandas, scikit-learn
 - Flask, FastAPI, Streamlit
+- LLM, NLP, MCP, RAG
+- Docker, Podman
 - Git, Linux
 
 ### 🚀 Featured Projects
