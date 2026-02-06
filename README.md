@@ -22,5 +22,5 @@ Focused on turning ML models into usable tools.
 
 ### 📫 Connect
 - GitHub    : @Hari7383
-- LinkedIn  : (add link)
-- Portfolio :
+- LinkedIn  : https://www.linkedin.com/in/hariharasuthan-s-313942251
+- Portfolio : https://hari7383.github.io/portfolio/
