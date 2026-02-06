@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi, I'm Hari 👋  
+AI / ML Engineer | Computer Vision | OCR | Speech AI  
 
-<!--
-**Hari7383/Hari7383** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build applied AI systems — not just notebooks.  
+Focused on turning ML models into usable tools.
 
-Here are some ideas to get you started:
+### 🔧 Tech Stack
+- Python, PyTorch, TensorFlow
+- OpenCV, NumPy, Pandas
+- Flask, FastAPI, Streamlit
+- Git, Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Projects
+- 🔹 dotfit-mcp-desktop – Desktop UI ↔ MCP backend integration
+- 🔹 OCR system for invoice & document parsing
+- 🔹 Image-to-image GAN (pix2pix / ESRGAN)
+
+### 📈 What I'm Working On
+- Production-ready ML pipelines
+- AI-powered desktop & web tools
+- Model deployment & inference optimization
+
+### 📫 Connect
+- GitHub    : @Hari7383
+- LinkedIn  : (add link)
+- Portfolio :
