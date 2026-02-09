@@ -16,7 +16,7 @@
 
 ---
 
-## ⚙️ Tech Stack (Animated Badges)
+## ⚙️ Tech Stack 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,flask,fastapi,streamlit,docker,linux,git" />
