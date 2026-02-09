@@ -1,28 +1,73 @@
-## Hi, I'm Hari 👋  
-AI / ML Engineer | Computer Vision | OCR | Speech AI  
+<!-- Animated Typing Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Hari+%F0%9F%91%8B;AI+%2F+ML+Engineer;Computer+Vision+%7C+OCR+%7C+Speech+AI;Building+applied+AI+systems" />
+</p>
 
-I build applied AI systems — not just notebooks.  
-Focused on turning ML models into usable tools.
+---
 
-### 🔧 Tech Stack
-- Python, PyTorch, TensorFlow, LangChain
-- OpenCV, NumPy, Pandas, scikit-learn
-- Flask, FastAPI, Streamlit
-- LLM, NLP, MCP, RAG
-- Docker, Podman
-- Git, Linux
+## 👨‍💻 About Me
 
-### 🚀 Featured Projects
-- 🔹 dotfit-mcp-desktop – Desktop UI ↔ MCP backend integration
-- 🔹 OCR system for invoice & document parsing
-- 🔹 Image-to-image GAN (pix2pix / ESRGAN)
+💡 **AI / ML Engineer** focused on **turning ML models into usable products**  
+🚀 I don’t build notebooks — I build **systems**
 
-### 📈 What I'm Working On
-- Production-ready ML pipelines
-- AI-powered desktop & web tools
-- Model deployment & inference optimization
+- 🔍 Computer Vision, OCR, Speech AI
+- 🧠 LLMs, MCP, RAG pipelines
+- 🛠️ From model → API → UI → deployment
 
-### 📫 Connect
-- GitHub    : @Hari7383
-- LinkedIn  : https://www.linkedin.com/in/hariharasuthan-s-313942251
-- Portfolio : https://hari7383.github.io/portfolio/
+---
+
+## ⚙️ Tech Stack (Animated Badges)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,flask,fastapi,streamlit,docker,linux,git" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🖥️ dotfit-mcp-desktop  
+Desktop UI ↔ MCP backend integration  
+🔹 Real system, not demo code
+
+</td>
+<td width="50%">
+
+### 📄 OCR System  
+Invoice & document parsing pipeline  
+🔹 CV + NLP + post-processing
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🧬 Image-to-Image GAN  
+pix2pix / ESRGAN  
+🔹 Research → working implementation
+
+</td>
+<td width="50%">
+
+### 🎙️ Speech AI Systems  
+Diarization + transcription  
+🔹 pyannote + Whisper
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧪 What I’m Working On
+
+```txt
+✔ Production-ready ML pipelines
+✔ AI-powered desktop & web tools
+✔ Model deployment & optimization
+✔ LLM tool orchestration (MCP / RAG)
