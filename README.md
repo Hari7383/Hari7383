@@ -20,7 +20,8 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,flask,fastapi,docker,linux,git" />
-   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+   <!-- <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" /> -->
+  <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="48" />
 </p>
 
 ---
@@ -84,7 +85,7 @@ Diarization + transcription
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" /> 
   </a> 
   <a href="https://hari7383.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=vercel&logoColor=white" />
+   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a> 
 </p>
 
