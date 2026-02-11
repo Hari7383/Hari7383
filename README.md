@@ -22,7 +22,7 @@
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,flask,fastapi,docker,linux,git" />
    <!-- <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" /> -->
   <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="48" />
-  <img src="https://streamlit.io/images/brand/pydantic-mark-color.svg" width="48" />
+  <img src="https://cdn.simpleicons.org/pydantic/E92063" width="48" />
 </p>
 
 ---
